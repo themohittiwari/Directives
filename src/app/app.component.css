@@ -1,0 +1,18 @@
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: violet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1 {
+  height: 50px;
+  width: 200px;
+  background-color: greenyellow;
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
